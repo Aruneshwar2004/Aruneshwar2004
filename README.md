@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aruneshwar2004&label=Profile%20views&color=0e75b6&style=flat" alt="aruneshwar2004" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aruneshwar2004" alt="aruneshwar2004" /></a> </p>
 
-- 🔭 I’m currently working on **App, Web development, Machine learning**
 
-- 🌱 I’m currently learning **Machine learning, Web-App dev, Deep learning**
+- 🔭 I’m currently working on **App, Web development, Machine learning, Blockchain, Web3**
+
+- 🌱 I’m currently learning **Machine learning, Web-App dev, Deep learning, Blockchain with Web3**
 
 - 👯 I’m looking to collaborate on **App, Web development**
 
